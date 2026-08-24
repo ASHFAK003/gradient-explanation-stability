@@ -1,0 +1,3 @@
+Perturbation method,R^2 (meanS),R^2 (meanmaxS),R^2 (maxS)
+Random,1.0,1.0,0.9961
+PGD,1.0,1.0,1.0

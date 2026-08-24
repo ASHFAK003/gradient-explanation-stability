@@ -1,0 +1,3 @@
+Perturbation method,L_hat (meanR),L_hat (meanmaxR),L_hat (maxR)
+Random,0.0542,0.0817,0.1563
+PGD,0.1424,0.1424,0.2773
