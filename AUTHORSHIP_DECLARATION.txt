@@ -1,0 +1,7 @@
+I verify that I am the sole author of the programs contained in this archive, except where explicitly stated to the contrary
+
+Typed signature: Ashfak Uddin
+Date: 05/08/2026
+
+The adapted third-party code is identified in the relevant source-code headers,
+the README.md file, and licenses/ChawDoe_LeNet5_MNIST_MIT_LICENSE.txt.
